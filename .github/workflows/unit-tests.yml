@@ -6,6 +6,7 @@ on:
       - master
       - main
       - develop
+      - G3.1-unit-test-setup
     types: [ opened, synchronize ]
 
 jobs:
